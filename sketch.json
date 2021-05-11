@@ -1,0 +1,26 @@
+{
+  "cpu": {
+    "fqbn": "",
+    "name": "",
+    "type": ""
+  },
+  "secrets": [
+    {
+      "name": "SECRET_SSID",
+      "value": ""
+    },
+    {
+      "name": "SECRET_PASS",
+      "value": ""
+    },
+    {
+      "name": "SECRET_CH_ID",
+      "value": ""
+    },
+    {
+      "name": "SECRET_WRITE_APIKEY",
+      "value": ""
+    }
+  ],
+  "included_libs": []
+}
